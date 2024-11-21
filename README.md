@@ -100,13 +100,11 @@ The notebook **`Week2 Day4 Task1.ipynb`** walks you through:
 
 ## 📬 Contact  
 
-For questions or collaboration, feel free to reach out:  
+For questions or collaboration, feel free to reach out:
 
-- **LinkedIn**: [Muhammad rizwan](https://linkedin.com/in/your-link-here)  
-- **Email**: [rizwancosc046@gmail.com](mailto:your-email@example.com)  
-- **WhatsApp**: [+923166701319](https://wa.me/1234567890)  
-
----
+LinkedIn: Muhammad Rizwan
+Email: rizwancosc046@gmail.com
+WhatsApp: +923166701319
 
 ## 📜 License  
 
